@@ -1,9 +1,4 @@
-/*
- * LCD.h
- *
- *  Created on: Aug 27, 2022
- *      Author: ahmed
- */
+
 
 #ifndef HALL_LCD_H_
 #define HALL_LCD_H_

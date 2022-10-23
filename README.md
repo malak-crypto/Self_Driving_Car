@@ -7,3 +7,5 @@ by downloading the zip file of this git you will find autonoumscar.rar which con
 also the videos for this project 
 and the source code in folder autonomus car which is divided into several sub folders. 
 
+to understand code flow of main.c (app layer) please check the flowchart included. 
+

@@ -1,9 +1,4 @@
-/*
- * Ultrasonic.h
- *
- *  Created on: 21 Oct 2022
- *      Author: User
- */
+
 
 #ifndef HAL_ULTRASONIC_H_
 #define HAL_ULTRASONIC_H_

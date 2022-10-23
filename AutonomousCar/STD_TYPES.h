@@ -1,9 +1,3 @@
-/*
- * MACROS.h
- *
- *  Created on: Mar 22, 2022
- *      Author:  Ahmed Younis
- */
 
 #ifndef TYPES_H_
 #define TYPES_H_

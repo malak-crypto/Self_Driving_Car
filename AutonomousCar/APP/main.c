@@ -26,9 +26,7 @@ int main()
 	//the dc motor is commented as it only worked on simulation
 	//and interferred with how the other hardware components behave 
 	//DcMotor_Init();
-	//DcMotor_Dir(DC_CLOCK_WISE);
-	//DcMotor_SetSpeed(10);
-	//DcMotor_Start();
+
 	
 	while(1)
 	{
@@ -36,6 +34,10 @@ int main()
 		LCD_WriteCommand(0x01);
 		LCD_WriteCommand(0x02);
 		LCD_WriteString("  Forward");
+		
+		//DcMotor_Dir(DC_CLOCK_WISE);
+		//DcMotor_SetSpeed(10);
+		//DcMotor_Start();
 		
 		ServoMotor_Set_Degree(ServoMotor_Degree_90);
 		_delay_ms(500);

@@ -1,9 +1,4 @@
-/*
- * LCD.c
- *
- *  Created on: Aug 27, 2022
- *      Author: ahmed
- */
+
 
 #include "LCD.h"
 #include <util/delay.h>

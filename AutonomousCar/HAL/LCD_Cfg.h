@@ -1,9 +1,4 @@
-/*
- * LCD_Cfg.h
- *
- *  Created on: Aug 26, 2022
- *      Author: ahmed
- */
+
 
 #ifndef HALL_LCD_CFG_H_
 #define HALL_LCD_CFG_H_
